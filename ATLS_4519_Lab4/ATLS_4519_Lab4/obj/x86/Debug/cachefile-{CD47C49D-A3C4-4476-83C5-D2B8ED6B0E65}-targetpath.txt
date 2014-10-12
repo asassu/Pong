@@ -1,0 +1,12 @@
+Content\ball.xnb
+Content\left_paddle.xnb
+Content\right_paddle.xnb
+Content\nightpaddleLeft.xnb
+Content\nightpaddleRight.xnb
+Content\starryball.xnb
+Content\Courier New.xnb
+Content\bloop.xnb
+Content\soundstuff.xgs
+Content\Wave Bank.xwb
+Content\Music.xwb
+Content\Sound Bank.xsb

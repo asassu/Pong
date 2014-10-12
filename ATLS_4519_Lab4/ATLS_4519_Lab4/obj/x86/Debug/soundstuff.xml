@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2064231059;
+    Bank Last Revised High = 30359163;
+
+    Wave
+    {
+        Name = Default_Bump;
+        File = Default_Bump.wav;
+        Build Settings Last Modified Low = 3975453856;
+        Build Settings Last Modified High = 30359160;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 13632;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1131537253;
+            Last Modified High = 30359154;
+        }
+    }
+
+    Wave
+    {
+        Name = Starry_Bump;
+        File = Starry_Bump.wav;
+        Build Settings Last Modified Low = 3975463855;
+        Build Settings Last Modified High = 30359160;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 92870;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2558569282;
+            Last Modified High = 30330317;
+        }
+    }
+
+    Wave
+    {
+        Name = Sunny_Bump;
+        File = Sunny_Bump.wav;
+        Build Settings Last Modified Low = 3975473850;
+        Build Settings Last Modified High = 30359160;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 24090;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2199587406;
+            Last Modified High = 30359155;
+        }
+    }
+}
+
+</WaveBank>
+  <WaveBank Name="Music">Wave Bank
+{
+    Name = Music;
+    Xbox File = Xbox\Music.xwb;
+    Windows File = Win\Music.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Streaming = 1;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2105053400;
+    Bank Last Revised High = 30359163;
+
+    Wave
+    {
+        Name = Seans_Adventure;
+        File = Seans_Adventure.wav;
+        Build Settings Last Modified Low = 1275385848;
+        Build Settings Last Modified High = 30359163;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 8965272;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2503696048;
+            Last Modified High = 30292787;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

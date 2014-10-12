@@ -1,0 +1,131 @@
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+H:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+F:\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\mini7175\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\bloop.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea with Built-in Difficulty\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\bloop.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael Fixes 3-11\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\bloop.xnb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\soundstuff.xgs
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Desktop\ATLS 4519 Lab4 Andrea 3-12\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Music.xwb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\bloop.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\soundstuff.xgs
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Music.xwb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\nightpaddleLeft.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\nightpaddleRight.xnb
+C:\Users\Andrea\Downloads\ATLS 4519 Lab4 Michael NOW_WITH_SOUND\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\starryball.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\nightpaddleLeft.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\nightpaddleRight.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\starryball.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\bloop.xnb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\soundstuff.xgs
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Music.xwb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Michael\Desktop\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\left_paddle.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\right_paddle.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\nightpaddleLeft.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\nightpaddleRight.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\starryball.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\bloop.xnb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\soundstuff.xgs
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Music.xwb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\bin\x86\Debug\ATLS_4519_Lab4.pdb
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.exe
+C:\Users\Andrea\Downloads\Michael Buggy Cues\ATLS_4519_Lab4\ATLS_4519_Lab4\ATLS_4519_Lab4\obj\x86\Debug\ATLS_4519_Lab4.pdb
